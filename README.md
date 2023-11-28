@@ -28,7 +28,7 @@ Eficiência: Geração de relatórios automatizados agiliza processos de auditor
 Detecção de Irregularidades: A IA integrada compara valores, auxiliando na identificação de discrepâncias.
 
 Contato:
-Para mais informações sobre o ETI-WEB3, entre em contato conosco em email@eti-web3.com ou visite nosso site eti-web3.com.
+Para mais informações sobre o ETI-WEB3, entre em contato conosco em eti-web3@bancoco2.com.br ou visite nosso site https://bancoco2.com.br.
 
 Nota:
 Este projeto foi desenvolvido com o compromisso de aprimorar a gestão de recursos públicos e promover uma administração transparente e eficiente. O ETI-WEB3 é uma solução inovadora que visa contribuir para a integridade e responsabilidade na utilização de emendas impositivas.
